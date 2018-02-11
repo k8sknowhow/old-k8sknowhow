@@ -14,3 +14,13 @@ Start your http server by issuing:
 
 This spins up a Node.js httpd which serves the files in your directory as static files accessible from:
     http://localhost:8080
+
+## Git
+
+### Set user name 
+
+    git config --global user.name "k8sknowhow"
+
+### Set email address
+
+    git config --global user.email "bill@k8sknowhow.com"
